@@ -23,7 +23,7 @@
 
 ## 开放源代码许可证
 
-本项目遵循 [MIT License](https://raw.githubusercontent.com/Motrans/proxy-rules/main/LICENSE) 发布。  
+本项目遵循 [MIT License](https://github.com/Motrans/proxy-rules/blob/main/LICENSE) 发布。  
 若需要对本项目进行修改或分发，请在副本中保留原作者的版权声明和许可证文本。  
 
 ---

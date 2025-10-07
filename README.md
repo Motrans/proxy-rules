@@ -25,7 +25,7 @@ This project references the following open-source project:
 
 ## Open Source License
 
-This project is released under the [MIT License](https://raw.githubusercontent.com/Motrans/proxy-rules/main/LICENSE).  
+This project is released under the [MIT License](https://github.com/Motrans/proxy-rules/blob/main/LICENSE).  
 If you wish to modify or redistribute this project, please retain the original copyright notice and license text in your copies.
 
 ---
