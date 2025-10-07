@@ -1,0 +1,8 @@
+# 仅在境外设有服务器，必须依赖代理加速的游戏
+
+# War Thunder
+PROCESS-NAME,aces.exe
+# Aimlabs
+PROCESS-NAME,AimLab_tb.exe
+# DEATH STRANDING
+PROCESS-NAME,ds.exe
