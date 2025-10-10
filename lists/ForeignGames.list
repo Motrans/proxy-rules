@@ -4,5 +4,7 @@
 PROCESS-NAME,aces.exe
 # Aimlabs
 PROCESS-NAME,AimLab_tb.exe
+# Battlefield 6
+PROCESS-NAME,bf6.exe
 # DEATH STRANDING
 PROCESS-NAME,ds.exe
